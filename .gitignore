@@ -128,3 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 best_model.pth
+
+
+models/fpn_resnext50_32x4d.pth
+models/unet_resnet18.pth
+models/unet_vgg16bn.pth
