@@ -1,0 +1,7 @@
+torch
+torch_snippets
+pytorch_model_summary
+albumentations
+segmentation_models_pytorch==0.2.1
+ipykernel
+streamlit
