@@ -132,3 +132,4 @@ best_model.pth
 
 models/fpn_resnext50_32x4d.pth
 models/unet_vgg19bn_augmentation.pth
+inputs/*
