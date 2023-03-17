@@ -9,5 +9,4 @@ Goal: Build a solution capable of generating masks to identify the presence of B
 3) Install requirements: pip install -r requirements.txt
 
 # Running the project
-
 streamlit run app.py
